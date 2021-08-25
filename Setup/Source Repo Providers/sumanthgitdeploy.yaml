@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:xli5NScpRhK-Xlt-diGZsw
+url: https://github.com/sumanth-ps2710/adminlab.git
+urlType: REPO
+username: git
